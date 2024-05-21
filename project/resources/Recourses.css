@@ -1,0 +1,49 @@
+table {
+    border: 1
+}
+
+.headline {
+    color: #93c355;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 150%;
+    text-transform: uppercase;
+
+}
+
+.text1 {
+    color: #112a59;
+    text-align: center;
+    border-collapse: collapse;
+    width: 200px;
+    font-size: 110%;
+}
+
+
+.text2 {
+    color: #112a59;
+    text-align: center;
+    border-collapse: collapse;
+    text-decoration: none;
+    width: 200px;
+    font-size: 110%;
+    height: 50px;
+
+}
+
+.text2:hover {
+    color: #93c355;
+
+}
+
+
+
+
+.text3 {
+    color: #112a59;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 125%;
+    height: 50px;
+
+}

@@ -1,0 +1,37 @@
+.headline {
+    text-align: center;
+    color: #93c355;
+    font-size: 200%;
+    text-transform: uppercase;
+
+}
+
+.headline2 {
+    text-align: center;
+    color: #112a59;
+    font-size: 125%;
+    text-transform: uppercase;
+    background-color: transparent;
+}
+
+.description {
+    color: #93c355;
+    text-align: center;
+    font-size: 125%;
+    text-transform: uppercase;
+}
+
+.submit {
+    background-color: #93c355;
+    color: aliceblue;
+    border: 1;
+    font-size: 157%;
+    width: 7%;
+    text-transform: uppercase;
+}
+
+
+.submit:hover {
+    background-color: #112a59;
+    color: aliceblue;
+}

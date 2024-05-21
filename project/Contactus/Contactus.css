@@ -1,0 +1,32 @@
+.headline {
+    text-align: center;
+    color: #93c355;
+    font-size: 200%;
+    text-transform: uppercase;
+
+}
+
+.headline2 {
+    text-align: center;
+    color: #112a59;
+    font-size: 107%;
+    text-transform: uppercase;
+}
+
+.description {
+    color: #93c355;
+    text-align: center;
+    font-size: 125%;
+    text-transform: uppercase;
+}
+.email{
+    text-align: center;
+    color: #112a59;
+    font-size: 107%;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.email:hover{
+    color: blue;
+}
